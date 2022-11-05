@@ -1,8 +1,6 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name : Jaison Raphael.V
-
-Roll no : 212221230038
+Name : Vetrivel
 
 Date of experiment : 01-11-2022
 
